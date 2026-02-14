@@ -6,7 +6,7 @@ This project implements a complete NLP pipeline:
 
 1. Train **BERT from scratch** using Masked Language Modeling (MLM)
 2. Fine‑tune as **Sentence‑BERT (SBERT)** with a Siamese architecture
-3. Perform **Natural Language Inference (SNLI)**
+3. Perform **Natural Language Inference (NLI)**
 4. Deploy an interactive **Dash web application**
 
 ---
@@ -153,7 +153,7 @@ Cosine similarity ≈ 0.48
 | WikiText‑2 | MLM pretraining |
 | SNLI | NLI fine‑tuning |
 
-Datasets loaded via 🤗 HuggingFace `datasets`.
+Datasets loaded via HuggingFace `datasets`.
 
 ---
 
