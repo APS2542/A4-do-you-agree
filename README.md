@@ -10,13 +10,6 @@ This project implements a complete NLP pipeline:
 4. Deploy an interactive **Dash web application**
 
 ---
-
-## 🚀 Demo
-
-![Demo](sample.png)
-
----
-
 ## ✅ Model Architecture
 
 ### MiniBERT Encoder (Task 1)
@@ -148,7 +141,11 @@ Cosine similarity ≈ 0.48
 ```
 
 ---
+## 🚀 Demo
 
+![Demo](sample.png)
+
+---
 ## 🧾 Dataset
 
 | Dataset | Purpose |
